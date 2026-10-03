@@ -1,0 +1,4 @@
+__pycache__/
+*.pt
+*.bag
+*.mp4
