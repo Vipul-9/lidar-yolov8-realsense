@@ -1,5 +1,5 @@
 ultralytics>=8.0
-pyrealsense2
+pyrealsense2==2.54.2.5684    # last release with L515 support (Python 3.8-3.11)
 opencv-python
 numpy
 open3d
